@@ -1,0 +1,35 @@
+div {
+}
+
+input { 
+    display: block;
+    width: 500px;
+    padding: 0px 48px;
+    text-align: center;
+    font-size: large;
+}
+
+img {
+    display: block;
+    width: 600px;
+    margin-bottom: 5%;
+}
+
+.body-search {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.search-button {
+    font-size: 200%;
+    border-radius: 10px;
+    color: darkblue;
+    margin-top: 2%;
+    cursor: pointer;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
